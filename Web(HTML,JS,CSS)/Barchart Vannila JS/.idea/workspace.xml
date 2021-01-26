@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dacbae17-d9f7-42f9-ab2f-4bc6a32eddd4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/check..html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/History" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaScript/package-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1610082513518</updated>
       <workItem from="1610082528734" duration="5390000" />
+      <workItem from="1610518194722" duration="153000" />
     </task>
     <servers />
   </component>
@@ -75,5 +74,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
